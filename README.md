@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Olivia (@olivia7175) 👋
 
-<!--
-**olivia7175/olivia7175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Zurich, currently at Tech Labs. Most of my day is spent writing Go or Python, optimizing SQL queries, and debugging distributed cache states.
 
-Here are some ideas to get you started:
+#### What I work with
+- **Languages & Frameworks:** Go, Python, FastAPI
+- **Databases & Cache:** PostgreSQL, Redis
+- **Infra & Tools:** Docker, Linux, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current focus
+- Exploring event-driven architectures and DB internals
+- Improving test coverage across internal microservices
+
+#### Contact
+- Open an issue or start a discussion on any of my public repos
+- Connect on [LinkedIn](https://linkedin.com) or reach out via email
